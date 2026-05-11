@@ -1,12 +1,16 @@
 ---
-title: Why CachyOS?
+title: 왜 CachyOS를 사용해야할까요?
 description: Why CachyOS may be better for you
 tableOfContents:
   minHeadingLevel: 1
   maxHeadingLevel: 4
 ---
 
-CachyOS is a performance-centric Arch Linux distribution designed to deliver a stable, efficient, and user-friendly computing environment. It offers the full power and flexibility of a rolling-release system, enhanced by advanced optimizations and a custom toolchain that streamlines the user experience for both new and experienced users.
+CachyOS is a performance-centric Arch Linux distribution designed to deliver a stable, efficient, and user-friendly computing environment. 
+CachyOS는 안정적이고 효율적이며 사용자에게 편리한 사용 경험을 제공하도록 설계된 성능 중심의 Arch Linux 기반 배포판입니다.
+It offers the full power and flexibility of a rolling-release system, enhanced by advanced optimizations and a custom toolchain that streamlines the user experience for both new and experienced users.
+
+
 
 ## Performance and Optimization
 
